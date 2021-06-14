@@ -30,6 +30,7 @@
        createCannon("top", 450);
        createCannon("bottom" , 450);
        createCannon("left", 100);
+       createCannon("right", 300);
         
         
         
